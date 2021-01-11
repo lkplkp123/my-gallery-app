@@ -1,1 +1,1 @@
-# my-gallery-app
+MyGalleryApp
